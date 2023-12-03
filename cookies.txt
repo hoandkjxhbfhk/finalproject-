@@ -2,15 +2,15 @@
 # http://curl.haxx.se/rfc/cookie_spec.html
 # This is a generated file!  Do not edit.
 
-.facebook.com	TRUE	/	TRUE	1735459877	sb	zXg1Yzp-e4JE2Lf6-Sl1kyEF
+.facebook.com	TRUE	/	TRUE	1736094577	sb	zXg1Yzp-e4JE2Lf6-Sl1kyEF
 .facebook.com	TRUE	/	TRUE	0	m_pixel_ratio	1.25
 .facebook.com	TRUE	/	TRUE	0	x-referer	eyJyIjoiL2hvbWUucGhwP3RidWE9MSIsImgiOiIvaG9tZS5waHA%2FdGJ1YT0xIiwicyI6Im0ifQ%3D%3D
 .facebook.com	TRUE	/	TRUE	1729153727	datr	unIBZdY8qLC_vnXY_TZuSoQa
-.facebook.com	TRUE	/	TRUE	1701498149	locale	vi_VN
-.facebook.com	TRUE	/	TRUE	1701504678	wd	1488x742
 .www.facebook.com	TRUE	/	TRUE	1735458413	m_ls	%7B%22c%22%3A%7B%221%22%3A%22HCwAABYSFtqupfMLEwUWhIWp1vX-GwA%22%2C%222%22%3A%22GSwVQBxMAAAWARbGiI3WDBYAABV-HEwAABYAFsaIjdYMFgAAFigA%22%2C%2295%22%3A%22HCwAABYIForoqNICEwUWhIWp1vX-GwA%22%7D%2C%22d%22%3A%22f65aaec8-32d1-4f3c-8a7a-32b4f906f41a%22%2C%22s%22%3A%220%22%2C%22u%22%3A%22aic26j%22%7D
-.facebook.com	TRUE	/	TRUE	1701504678	dpr	1.25
-.facebook.com	TRUE	/	TRUE	1732435879	c_user	61553912611449
-.facebook.com	TRUE	/	TRUE	1732435879	xs	8%3ARVXVLxZtOxqVAw%3A2%3A1700899876%3A-1%3A-1%3A%3AAcWlLf2T79KXTgKDt_88Qlvp_r_3o2TkfXM8kgxlWA
-.facebook.com	TRUE	/	TRUE	1708675879	fr	1KlHKmJ8FYSOGTHOd.AWVavDDfSm4juZthe7ls9FYY5G0.BlYawn.05.AAA.0.0.BlYawn.AWXaDEr-xDI
-.facebook.com	TRUE	/	TRUE	0	presence	C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1700899881439%2C%22v%22%3A1%7D
+.facebook.com	TRUE	/	TRUE	1702139509	wd	1488x742
+.facebook.com	TRUE	/	TRUE	1702139377	locale	vi_VN
+.facebook.com	TRUE	/	TRUE	1733070710	c_user	61553910072509
+.facebook.com	TRUE	/	TRUE	1702139508	dpr	1.25
+.facebook.com	TRUE	/	TRUE	1733070710	xs	50%3AOP859XpPdyQ_Rw%3A2%3A1701534575%3A-1%3A-1%3A%3AAcWN9KAyoII5i5sPDYl5yiHuTJHBgCXwwm5Js9Z-9A
+.facebook.com	TRUE	/	TRUE	1709310710	fr	1sGs3lygKVDnHkBb9.AWU5Jl82kOiG1vT4SFhEdFAa7D4.Bla1v1.05.AAA.0.0.Bla1v1.AWVICnIEVqI
+.facebook.com	TRUE	/	TRUE	0	presence	C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1701534711964%2C%22v%22%3A1%7D
